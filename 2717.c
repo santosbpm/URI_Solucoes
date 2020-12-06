@@ -24,4 +24,5 @@ int main() {
         printf("Farei hoje!\n");
 
     return 0;
+    
 }
